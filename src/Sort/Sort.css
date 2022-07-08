@@ -1,0 +1,18 @@
+.sort svg{
+    height: 30px;
+    width: 30px;
+    margin: auto 0;
+}
+.sort{
+    gap: 20px;
+   display: flex;
+}
+
+.sort span{
+    margin: auto 0;
+}
+.sort button{
+    cursor: pointer;
+    background-color: transparent;
+    border: 0;
+}

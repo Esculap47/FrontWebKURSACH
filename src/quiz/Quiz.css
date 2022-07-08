@@ -1,0 +1,27 @@
+.quiz{
+    margin-top: 80px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.result{
+    margin: 0 auto;
+    width: 100%;
+    display: flex;
+    max-width: 1000px;
+    justify-content: space-between;
+    border-radius: 30px;
+    border: 1px solid gray;
+    padding: 20px;
+}
+
+.quiz-buttons{
+    display: flex;
+    justify-content: space-between;
+}
+.delete svg{
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
